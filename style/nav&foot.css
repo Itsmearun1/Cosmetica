@@ -1,6 +1,9 @@
 
 /* <...........................................Start top-nav-bar  ..................................................> */
 
+*{
+  font-family: Avenir-Next, sans-serif;
+  }
 body{
   margin: 0;
   padding: 0;
