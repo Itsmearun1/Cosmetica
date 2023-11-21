@@ -1,3 +1,4 @@
+![proj2](https://github.com/Itsmearun1/vast-reward-2791/assets/112754597/438f126b-ffb5-49a2-827a-a5eb0dcd0deb)
 Cosmetica - NNNOW Website Clone
 
 This project is a clone of a popular cosmetics website NNNW.com created using HTML, CSS, and JavaScript. It was a collaborative project. The purpose of this project is to showcase our front-end development skills by replicating the design and functionality of a real-world website.
